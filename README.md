@@ -1,5 +1,3 @@
-# shell-batch-lame-mp3
-# 使用sh文件和lame工具批量压缩mp3
 
 # 批量压缩mp3文件，并保存压缩后的文件
 # Author:www.coolketang.com
